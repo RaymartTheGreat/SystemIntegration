@@ -1,0 +1,47 @@
+BUSINESS ACCOUNT
+
+John Doe
+
+sb-txlh325612924@business.example.com
+3A6*^eEm
+
+4082546365
+
+Account ID - CMTFAW3U2JMAG
+
+
+API Account
+
+sb-txlh325612924_api1.business.example.com
+WQ3Q6G5W6Y85UW4V
+
+Signature
+AJr3bUc9A4bWlaCBF-1QM0.ZDezaAvMSehCUxRK2WkWbo7gt8AbwVmCh
+
+
+PERSONAL ACCOUNT
+
+John Doe
+
+sb-hwjxn25613077@personal.example.com
+AlE?n_M7
+
+4086053601
+
+Account ID - CR2TULTTD8N82
+
+Bank Account
+Account Number - 065259242968
+Routing Number - 325272063
+
+
+Credit Card Account
+
+4032031883735945
+VISA
+05/2028
+
+CLIENT ID
+
+AQuMV7wAmo59K7mHBHicsS8f-_W_qo64_kQiTCb24-beuHSPsPdTv20ZWRoSIm-MHe_riYThOyULSObr
+

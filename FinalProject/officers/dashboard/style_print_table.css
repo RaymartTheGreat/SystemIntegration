@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #eaf6fd;
+}
+
+tr:nth-child(odd) {
+    background-color: #d4effd;
+}
+
+button {
+    margin-top: 20px;
+}
+
+/* Print specific styles */
+@media print {
+    th,
+    td {
+        padding: 8px;
+        border: 1px solid black;
+    }
+
+    th {
+        background-color: #f2f2f2 !important;
+        -webkit-print-color-adjust: exact; 
+    }
+
+    tr:nth-child(even) {
+        background-color: #eaf6fd !important;
+        -webkit-print-color-adjust: exact; 
+    }
+
+    tr:nth-child(odd) {
+        background-color: #d4effd !important;
+        -webkit-print-color-adjust: exact; 
+    }
+}
